@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnan94&label=Profile%20views&color=0e75b6&style=flat" alt="adnan94" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnan94" alt="adnan94" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnan94" alt="adnan94" style="max-width:100%"/></a> </p>
 
 - 🔭 I’m currently working on [HBL-Konnect](https://play.google.com/store/apps/details?id=com.hbl.bbcustomerapp&hl=en&gl=US)
 
